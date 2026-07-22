@@ -1,14 +1,24 @@
-# Hi, I'm Manmohan Singh 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github-profile-hero-banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="./github-profile-hero-banner.png">
+    <img alt="Manmohan Singh" src="./github-profile-hero-banner.png" width="100%">
+  </picture>
+</p>
 
-### Frontend Architect • Engineering Leader • AI-Driven Software Engineering
+<p align="center">
+
+**Designing enterprise-scale frontend platforms through architecture, engineering excellence, and AI-driven software development.**
+
+</p>
 
 I design scalable frontend platforms, modernize enterprise applications, and help engineering teams deliver high-quality software through thoughtful architecture, engineering excellence, and AI-assisted developer workflows.
 
 ---
 
-## About Me
+## Engineering Profile
 
-I'm a Frontend Architect with **18+ years** of experience designing enterprise-scale digital platforms, leading distributed engineering teams, and driving engineering excellence. My work spans architecture, platform modernization, AI-assisted engineering, and developer productivity, with a focus on building systems that scale—both technically and organizationally.
+I'm a Frontend Architect with **18+ years** of experience designing enterprise-scale digital platforms, modernizing frontend architectures, and leading distributed engineering teams. I specialize in building scalable systems, improving developer productivity, and enabling engineering excellence through architecture, automation, and AI-assisted workflows.
 
 ---
 
@@ -55,11 +65,9 @@ I'm a Frontend Architect with **18+ years** of experience designing enterprise-s
 
 ## Engineering Philosophy
 
-```text
-Think → Design → Document → Implement → Validate → Review → Improve
-```
+> **Think → Design → Document → Implement → Validate → Review → Improve**
 
-> Great architecture enables teams. Great engineering enables businesses.
+Great architecture enables teams. Great engineering enables businesses.
 
 ---
 
@@ -97,7 +105,7 @@ I've contributed to enterprise platforms across retail, consumer goods, financia
 
 ## Let's Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/manmohansinghh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
