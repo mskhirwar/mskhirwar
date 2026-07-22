@@ -53,10 +53,11 @@ Great engineering enables businesses.
 ## Organizations & Brands I've Worked With
 
 <p align="center">
-  <img
-    src="./association-brands-logo-banner-v2.png"
-    alt="Organizations & Brands I've Worked With"
-    width="100%">
+  <img src="./brandsafway-logo.png" height="130" alt="BrandSafway">
+  <img src="./keurig-logo.png" height="130" alt="Keurig Dr Pepper">
+  <img src="./carters-logo-1.png" height="130" alt="Carter's">
+  <img src="./mns-logo.png" height="130" alt="Marks & Spencer">
+  <img src="./debenhams-logo.png" height="130" alt="Debenhams">
 </p>
 
 I've contributed to enterprise platforms across retail, consumer goods, financial services, telecommunications, and construction, focusing on architecture modernization, cloud adoption, engineering excellence, and scalable frontend platforms.
