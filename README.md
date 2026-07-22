@@ -1,21 +1,55 @@
 # Hi, I'm Manmohan Singh 👋
 
-**Frontend Architect • Engineering Leader • AI-Driven Software Engineering**
+### Frontend Architect • Engineering Leader • AI-Driven Software Engineering
 
-I build scalable frontend platforms, architect enterprise applications, and help engineering teams deliver high-quality software through thoughtful design, strong engineering practices, and modern AI-assisted workflows.
+I design scalable frontend platforms, modernize enterprise applications, and help engineering teams deliver high-quality software through thoughtful architecture, engineering excellence, and AI-assisted developer workflows.
 
 ---
 
 ## About Me
 
-* 🏗️ Frontend Architecture for enterprise-scale applications
-* ⚛️ React • Next.js • TypeScript • JavaScript
-* ☁️ Cloud-native engineering with Node.js and Google Cloud
-* 🤖 AI-assisted developer productivity and engineering automation
-* 📐 System Design, Engineering Standards, and Technical Documentation
-* 👥 Technical Leadership, Code Reviews, and Engineering Mentorship
+I'm a Frontend Architect with **18+ years** of experience designing enterprise-scale digital platforms, leading distributed engineering teams, and driving engineering excellence. My work spans architecture, platform modernization, AI-assisted engineering, and developer productivity, with a focus on building systems that scale—both technically and organizationally.
 
-I believe great software is built by combining **architecture, execution, documentation, automation, and continuous improvement**.
+---
+
+## Engineering Capabilities
+
+### Frontend Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+### Backend & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+
+### AI & Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Engineering-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer_Productivity-0A66C2?style=for-the-badge" />
+</p>
+
+### Engineering Excellence
+
+<p>
+  <img src="https://img.shields.io/badge/Performance-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Accessibility-5E35B1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-B71C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SEO-43A047?style=for-the-badge" />
+</p>
 
 ---
 
@@ -25,26 +59,20 @@ I believe great software is built by combining **architecture, execution, docume
 Think → Design → Document → Implement → Validate → Review → Improve
 ```
 
-Good architecture enables teams.
-
-Great engineering enables businesses.
+> Great architecture enables teams. Great engineering enables businesses.
 
 ---
 
 ## Current Focus
 
-* AI-enabled software engineering
-* Enterprise frontend architecture
-* Developer productivity
-* Engineering automation
-* Large-scale React ecosystems
-* System design and architecture
+- 🤖 AI-Driven Engineering
+- 🏗️ Enterprise Frontend Architecture
+- ⚙️ Engineering Productivity & Automation
+- 📐 Architecture Documentation & System Design
 
 ---
 
 ## Organizations & Brands I've Worked With
-
-Throughout my career, I've had the opportunity to architect, build, and modernize enterprise applications for global organizations across retail, consumer goods, financial services, telecommunications, construction, and digital commerce, including:
 
 <p align="center">
   <img src="./association-brands-logo-banner-v2.png"
@@ -52,43 +80,36 @@ Throughout my career, I've had the opportunity to architect, build, and moderniz
        width="900">
 </p>
 
-These engagements have included designing enterprise-scale frontend architectures, modernizing digital platforms, improving engineering practices, driving cloud adoption, and leading geographically distributed engineering teams to deliver high-quality software at scale.
-
----
-
-## Technical Interests
-
-* Frontend Architecture
-* React Ecosystem
-* Next.js
-* TypeScript
-* JavaScript
-* Design Systems
-* Performance Engineering
-* Accessibility
-* Developer Experience (DX)
-* AI Engineering
-* Architecture Documentation
-* Cloud Architecture
+I've contributed to enterprise platforms across retail, consumer goods, financial services, telecommunications, and construction, focusing on architecture modernization, cloud adoption, engineering excellence, and scalable frontend platforms.
 
 ---
 
 ## Principles I Value
 
-* Simplicity over complexity
-* Documentation is part of engineering
-* Automation over repetition
-* Quality over shortcuts
-* Systems over motivation
-* Continuous learning
+- Architecture over complexity
+- Documentation over tribal knowledge
+- Automation over repetition
+- Quality over shortcuts
+- Systems over motivation
+- Continuous learning over comfort
 
 ---
 
 ## Let's Connect
 
-* GitHub: https://github.com/mskhirwar
-* Linkedin: https://www.linkedin.com/in/manmohansinghh
-* X: @mskhirwar
+<p>
+  <a href="https://www.linkedin.com/in/manmohansinghh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/mskhirwar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/mskhirwar">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
 ---
 
