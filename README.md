@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github-profile-hero-banner.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./github-profile-hero-banner.png">
     <source media="(prefers-color-scheme: light)" srcset="./github-profile-hero-banner.png">
     <img alt="Manmohan Singh" src="./github-profile-hero-banner.png" width="100%">
   </picture>
