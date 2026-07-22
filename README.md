@@ -46,11 +46,11 @@ Great engineering enables businesses.
 
 Throughout my career, I've had the opportunity to architect, build, and modernize enterprise applications for global organizations across retail, consumer goods, financial services, telecommunications, construction, and digital commerce, including:
 
-* 🏗️ BrandSafway
-* ☕ Keurig Dr Pepper
-* 👶 Carter's
-* 🛍️ Marks & Spencer
-* 👗 Debenhams
+<p align="center">
+  <img src="./association-brands-logo-banner-v2.png"
+       alt="Organizations and Brands I've Worked With"
+       width="900">
+</p>
 
 These engagements have included designing enterprise-scale frontend architectures, modernizing digital platforms, improving engineering practices, driving cloud adoption, and leading geographically distributed engineering teams to deliver high-quality software at scale.
 
@@ -87,6 +87,7 @@ These engagements have included designing enterprise-scale frontend architecture
 ## Let's Connect
 
 * GitHub: https://github.com/mskhirwar
+* Linkedin: https://www.linkedin.com/in/manmohansinghh
 * X: @mskhirwar
 
 ---
